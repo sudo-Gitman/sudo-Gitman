@@ -4,7 +4,7 @@ Welcome to the **`sudo-Gitman`** GitHub profile!
 
 ## About Me
 
-Hello! I'm **Sreerag**, a passionate developer with a focus on **system administration** and **security automation**. I specialize in creating scripts and tools that help streamline administrative tasks, enhance system security, and improve the efficiency of endpoint management. Most of my work revolves around **PowerShell** and **Bash** scripting, with a keen interest in managing endpoint security solutions like Forcepoint.
+Hello! I'm **Sreerag**, a passionate Cyber Security Engineer with a focus on **system administration** and **security automation**. I specialize in creating scripts and tools that help streamline administrative tasks, enhance system security, and improve the efficiency of endpoint management. Most of my work revolves around **PowerShell** and **Bash** scripting, with a keen interest in managing endpoint security solutions like Forcepoint.
 
 ## My Projects
 
